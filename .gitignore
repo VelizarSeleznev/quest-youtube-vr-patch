@@ -1,0 +1,9 @@
+out/
+keys/
+*.apk
+*.jks
+*.keystore
+__pycache__/
+*.idsig
+*.report.json
+.DS_Store

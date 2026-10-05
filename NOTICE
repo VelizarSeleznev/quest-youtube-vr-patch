@@ -1,0 +1,18 @@
+Quest YouTube VR Patch
+Copyright (C) 2026 Velizar Seleznev
+https://github.com/VelizarSeleznev
+
+Licensed under GNU GPL version 3 (GPL-3.0-only). See LICENSE.
+
+The ad-method fingerprint and early-return approach derive from ReVanced
+revanced-patches, also licensed under GNU GPL version 3.
+Pinned upstream commit: 015fe10a23ea5b919a3fda6e7da2c176517ae75d
+Sources:
+https://gitlab.com/ReVanced/revanced-patches/-/blob/015fe10a23ea5b919a3fda6e7da2c176517ae75d/patches/src/main/kotlin/app/revanced/patches/youtube/ad/video/Fingerprints.kt
+https://gitlab.com/ReVanced/revanced-patches/-/blob/015fe10a23ea5b919a3fda6e7da2c176517ae75d/patches/src/main/kotlin/app/revanced/patches/youtube/ad/video/VideoAdsPatch.kt
+
+Apktool is downloaded separately from its official release; its project and
+license are at https://github.com/iBotPeaches/Apktool.
+No Google APK or decoded Google source is distributed.
+YouTube and Meta Quest are trademarks of their respective owners.
+This project is not affiliated with Google, Meta or ReVanced.
